@@ -1,4 +1,5 @@
 # Accessible Learning Analytics
+This is an analysis of Moodle course student data done on Jupyter Notebook. In this study two main sources of data are used: student activity log and students grades (assignments and final grade).
 
 ## Installation - Preparing of the experiment platform
 
