@@ -1,5 +1,8 @@
 # Accessible Learning Analytics
 
+# Installation - Preparing of the experiment platform
+
+
 # Files
 There are two files of code - both in ipython notebook format: functions.ipynb and ala.ipynb. 
 
