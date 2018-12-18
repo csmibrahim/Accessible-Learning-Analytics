@@ -1,3 +1,5 @@
+# Accessible Learning Analytics
+
 # Files
 There are two files of code - both in ipython notebook format: functions.ipynb and ala.ipynb. 
 
