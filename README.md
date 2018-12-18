@@ -1,6 +1,6 @@
 # Accessible Learning Analytics
 
-# Installation - Preparing of the experiment platform
+## Installation - Preparing of the experiment platform
 
 
 # Files
