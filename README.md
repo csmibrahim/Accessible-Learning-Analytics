@@ -1,3 +1,6 @@
+# Files
+There are two files of code - both in ipython notebook format: functions.ipynb and ala.ipynb. 
+
 # Disclaimer
 The code is undergoing more testing and integration of other features. The future versions of this jupyter notebook will include more documentation, examples and optimizations.
 
