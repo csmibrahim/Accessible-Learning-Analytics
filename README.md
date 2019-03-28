@@ -2,7 +2,8 @@
 This is an analysis of Moodle course student data done on Jupyter Notebook. In this study two main sources of data are used: student activity log and students grades (assignments and final grade).
 
 ## Installation - Preparing of the experiment platform
-
+Step-by-step guide for environment setup on Windows
+https://docs.google.com/document/d/1iX-enXoGtH964xzYxAjWnPj6sxLHdSmHUqYV6tEAOb4/edit?usp=sharing
 
 ## Files
 There are two files of code - both in ipython notebook format: functions.ipynb and ala.ipynb. 
