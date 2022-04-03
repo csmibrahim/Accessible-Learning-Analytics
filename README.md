@@ -6,7 +6,7 @@ This is an analysis of Moodle course student data done on Jupyter Notebook. In t
 <a href="https://docs.google.com/document/d/1iX-enXoGtH964xzYxAjWnPj6sxLHdSmHUqYV6tEAOb4/edit?usp=sharing">Step-by-step guide for environment setup on Windows. </a>
 
 ## Files
-There are two files of code - both in ipython notebook format: functions.ipynb and ala.ipynb. 
+There are two files of code - both in Jupyter notebook format: functions.ipynb and ala.ipynb. 
 
 ## Citation
 If you use ALA's code or you take the publication as a reference for your research, please cite our work in the following way:
