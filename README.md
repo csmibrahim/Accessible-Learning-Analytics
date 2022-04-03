@@ -15,8 +15,7 @@ The code is undergoing more testing and integration of other features. The futur
 ## Citation
 If you use ALA's code or you take the publication as a reference for your research, please cite our work in the following way:
 
-Mohammed Ibrahim, Daniel McSweeney, and Geraldine Gray. Accessible learning analytics. In Companion Proceedings 9th Inter-
-national Conference on Learning Analytics & Knowledge (LAK’19), pages 202–203, 2019.
+Mohammed Ibrahim, Daniel McSweeney, and Geraldine Gray. Accessible learning analytics. In Companion Proceedings of the 9th International Conference on Learning Analytics & Knowledge (LAK’19), pages 202–203, 2019.
 
 Bibtex entry:
 ```bibtex
