@@ -19,7 +19,7 @@ Mohammed Ibrahim, Daniel McSweeney, and Geraldine Gray. Accessible learning anal
 national Conference on Learning Analytics & Knowledge (LAK’19), pages 202–203, 2019.
 
 Bibtex entry:
-```
+```bibtex
 @inProceedings{ibrahimALA19,
   title={Accessible Learning Analytics},
   author = {Mohammed Ibrahim
